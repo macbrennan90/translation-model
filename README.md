@@ -9,5 +9,5 @@ This project was to build an French-English translator using word embeddings, bi
 
 An overview of the project is described in <a href=https://macbrennan90.github.io/neural-translation-model.html>this blog post</a>.
 
-A detailed walk through of the code used to build the model can be found in the translation-model.ipynb, Jupyter Notebook. A rendered version of the notebook can be viewed <a href=https://macbrennan90.github.io/neural-translation-model.html>here</a>.
+A detailed walk through of the code used to build the model can be found in the translation-model.ipynb, Jupyter Notebook. A rendered version of the notebook can be viewed <a href=https://nbviewer.jupyter.org/github/macbrennan90/translation-model/blob/master/translation-model.ipynb>here</a>.
 
